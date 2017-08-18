@@ -6,4 +6,7 @@ public class Main {
 	// write your code here
         System.out.print(6666);
     }
+    public void print(){
+
+    }
 }
